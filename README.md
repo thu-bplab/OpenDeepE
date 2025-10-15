@@ -1,4 +1,6 @@
 # OpenDeepE: Open-Source Deep-E / 2D Fully-Dense U-Net
+Non-official Pytorch implementation of "Deep-E: a fully-dense neural network for improving the elevation resolution in linear-array-based photoacoustic tomography" (IEEE TMI)
+
 ## Setup
 
 ### Installation
