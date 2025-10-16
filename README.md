@@ -133,7 +133,7 @@ This organization ensures proper data handling and compatibility with the provid
   month        = oct,
   year         = 2025,
   publisher    = {Zenodo},
-  version      = {OpenDeepE},
+  version      = {v1.0},
   doi          = {10.5281/zenodo.17364359},
   url          = {https://doi.org/10.5281/zenodo.17364359}
 }
