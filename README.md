@@ -125,3 +125,16 @@ This organization ensures proper data handling and compatibility with the provid
   publisher={IEEE}
 }
 ```
+
+```
+@software{di_kong_2025_17364359,
+  author       = {Di Kong},
+  title        = {OpenDeepE: Open-Source Deep-E / 2D Fully-Dense U-Net},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {OpenDeepE},
+  doi          = {10.5281/zenodo.17364359},
+  url          = {https://doi.org/10.5281/zenodo.17364359}
+}
+```
